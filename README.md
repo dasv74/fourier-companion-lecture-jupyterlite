@@ -6,7 +6,7 @@
 
 This repository contains a set of Jupyter notebooks designed as a direct complement to a lecture on Fourier image processing. The notebooks focus on visual intuition, frequency-domain reasoning with many illustrations.
 
-<p align="center"><img src="cell_substrat.png" width="200"><img src="FFT_cell_substrat.png" width="200"></p>
+<p align="center"><img src="illustrations/cell_substrat.png" width="200"><img src="illustrations/FFT_cell_substrat.png" width="200"></p>
 
 ## Run it in a browser using Jupyter-Lite
 [![jupyter-lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://dasv74.github.io/fourier-companion-lecture-jupyterlite/lab/index.html?path=3_Fourier_Properties.ipynb)
@@ -19,7 +19,7 @@ This repository contains a set of Jupyter notebooks designed as a direct complem
 - Fourier decomposition of images, Fourier-based reconstruction and demonstrations of Fourier properties
 - Convolution and deconvolution in the frequency domain
 - Experiment basic Super-Resolution SIM Reconstruction (Structured Illumination Microscopy) 
-<p align="center"><img src="SIM-reconstruction.png" width="600"></p>
+<p align="center"><img src="illustrations/SIM-reconstruction.png" width="600"></p>
 
 ## Intended use
 
