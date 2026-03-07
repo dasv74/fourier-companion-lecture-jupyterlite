@@ -9,10 +9,9 @@ This repository contains a set of Jupyter notebooks designed as a direct complem
 <p align="center"><img src="illustrations/cell_substrat.png" width="200"><img src="illustrations/FFT_cell_substrat.png" width="200"></p>
 
 ## Run it in a browser using Jupyter-Lite
-[![jupyter-lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://dasv74.github.io/fourier-companion-lecture-jupyterlite/lab/index.html?path=3_Fourier_Properties.ipynb)
+[![jupyter-lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://dasv74.github.io/fourier-companion-lecture-jupyterlite/lab/index.html)
 
-
-[Open **3_Fourier_Properties.ipynb** in JupyterLite](https://dasv74.github.io/fourier-companion-lecture-jupyterlite/lab/index.html?path=3_Fourier_Properties.ipynb)
+[Open JupyterLite](https://dasv74.github.io/fourier-companion-lecture-jupyterlite/lab/index.html)
 
 ## Scope
 
